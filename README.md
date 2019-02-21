@@ -2,11 +2,6 @@
 
 Generalmente la corrupción se puede definir como el abuso de poder concedido para el propio beneficio. Esto es en simples palabras el aprovechamiento de una persona sobre las demás; la corrupción se puede dar en diversas instituciones, tanto públicas como privadas y se puede presentar de diversas maneras, por ejemplo: acuerdos entre empresas que no están regidos por la ley, sobornos a instituciones públicas para evitar procesos largos o para ahorrar dinero, entre otros. De igual manera es uno de los fenómenos que más pueden llegar a dañar al país, desde lo social hasta lo económico.
 
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=CmzAX8VOr8w
-" target="_blank"><img src="http://img.youtube.com/vi/CmzAX8VOr8w/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
 # Caso de corrupción, falsificacion de datos.
 
 La empresa Roadstar.ai despide a uno de sus cofundadores tras presentarse cargos de corrupción y falsificación de datos.  Se trata del investigador Zhou Gang, científico con un grado doctoral del instituto de investigación y desarrollo de Baidu, ubicado en Silicon Valley. 
@@ -29,6 +24,31 @@ La investigación sigue en proceso y no se ha sentenciado alguna sentencia por p
 Actualmente Roadstar.ai tiene las patentes de las tecnologías HeteroSync y Deepfusion, dichas tecnologías incorporan el uso de sensores, cámaras y proveer datos a tiempo real acerca del espacio en el que se encuentra el vehículo, creando un sistema robusto y seguro para el funcionamiento autónomo. Esto ha hecho a la empresa acreedora de diversos premios de organización en China, como el premio al mejor “Start up” del 2018 que no se limita a empresas ingenieriles, también ha sido mencionada en revistas prestigiosas como el NY Times y Axios.
  
 De esta noticia se puede concluir que la falsificación de datos en investigaciones científicas o ingenieriles es un tema importante que debe ser monitoreado por organismos autónomos a los investigadores o empresas. La creación y el uso de herramientas digitales para la validación estadística de datos también es un método que se debe aplicar para detectar este tipo de falsificaciones. Este caso no ha sido resuelto, pero los mecanismos anticorrupción y la denuncia de compañeros de trabajo lograron sacar este caso a la luz. Cuando se oficialice algún dictamen por parte del gobierno de China se actualizará la información de esta noticia, de confirmarse este caso de corrupción se puede esperar que las acciones de Roadstar.ai sufran un descenso considerable. 
+
+# Línea Abierta
+
+<h2>Send e-mail to someone@example.com:</h2>
+
+<form action="mailto:someone@example.com" method="post" enctype="text/plain">
+Name:<br>
+<input type="text" name="name"><br>
+E-mail:<br>
+<input type="text" name="mail"><br>
+Comment:<br>
+<input type="text" name="comment" size="50"><br><br>
+<input type="submit" value="Send">
+<input type="reset" value="Reset">
+</form>
+
+# Videoteca
+
+¿Qué es la corrupción?
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=CmzAX8VOr8w
+" target="_blank"><img src="http://img.youtube.com/vi/CmzAX8VOr8w/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+La corrupción en México
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Eglf3WWNMb0
 " target="_blank"><img src="http://img.youtube.com/vi/Eglf3WWNMb0/0.jpg" 
