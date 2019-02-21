@@ -27,7 +27,7 @@ De esta noticia se puede concluir que la falsificación de datos en investigacio
 
 # Línea Abierta
 
-[Contáctanos](https://docs.google.com/forms/d/e/1FAIpQLSex-I9W5-FawVBs5C827kWxEuXlmv4-xufwXxoNUzP8UrrAcQ/viewform?usp=sf_link)
+Necesitamos crear redes de ciudadanos parsa ejercer el combate a la corrupción. [Contáctanos](https://docs.google.com/forms/d/e/1FAIpQLSex-I9W5-FawVBs5C827kWxEuXlmv4-xufwXxoNUzP8UrrAcQ/viewform?usp=sf_link)
 
 # Videoteca
 
