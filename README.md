@@ -75,7 +75,7 @@ En el ámbito internacional también se pueden encontrar casos de corrupción en
      
  Lo importante que se tiene que aprender de estos sucesos, es que los ingenieros deben tener un rol activo en el combate contra la corrupción. Las normas de seguridad para obras públicas, plantas nucleares, instalaciones eléctricas, pruebas de manejo autónomo esta bien definidas y es conocimiento vital para el ingeniero. La denuncia al detectar que no se cumplen con las regulaciones es vital, al igual que la creación de mecanismo confiables que hagan que la denuncia tenga efecto y no se ignorada a causa de la red de corrupción. 
  
- # Opinión Pública respecto a la corrupción
+#  Opinión Pública respecto a la corrupción
 
 La corrupción no es propia de un país, sociedad, segmento de población, cultura, profesión o partidos políticos. Esta tampoco es exclusiva del gobierno, ni se encuentra extendida en toda la población de un país. No se restringe a un tipo de prácticas, pues involucra una serie de formas, mecanismos y organizaciones en la que intervienen una gran cantidad de elementos.
 
