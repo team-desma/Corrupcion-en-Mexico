@@ -6,6 +6,8 @@ Generalmente la corrupción se puede definir como el abuso de poder concedido pa
 
 ![Percepción de la corrupción en diversos países](https://upload.wikimedia.org/wikipedia/commons/b/b3/Corruption_Perception_index_2017.svg)
 
+Percepción de la corrupción en diversos países según transparencia internacional.
+
 # Caso de corrupción, falsificacion de datos.
 
 La empresa Roadstar.ai despide a uno de sus cofundadores tras presentarse cargos de corrupción y falsificación de datos.  Se trata del investigador Zhou Gang, científico con un grado doctoral del instituto de investigación y desarrollo de Baidu, ubicado en Silicon Valley. 
