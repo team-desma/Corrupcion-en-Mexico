@@ -27,18 +27,7 @@ De esta noticia se puede concluir que la falsificación de datos en investigacio
 
 # Línea Abierta
 
-<h2>Send e-mail to someone@example.com:</h2>
-
-<form action="mailto:someone@example.com" method="post" enctype="text/plain">
-Name:<br>
-<input type="text" name="name"><br>
-E-mail:<br>
-<input type="text" name="mail"><br>
-Comment:<br>
-<input type="text" name="comment" size="50"><br><br>
-<input type="submit" value="Send">
-<input type="reset" value="Reset">
-</form>
+[Contáctanos](https://docs.google.com/forms/d/e/1FAIpQLSex-I9W5-FawVBs5C827kWxEuXlmv4-xufwXxoNUzP8UrrAcQ/viewform?usp=sf_link)
 
 # Videoteca
 
