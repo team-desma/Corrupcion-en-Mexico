@@ -2,7 +2,7 @@
 
 Generalmente la corrupción se puede definir como el abuso de poder concedido para el propio beneficio. Esto es en simples palabras el aprovechamiento de una persona sobre las demás; la corrupción se puede dar en diversas instituciones, tanto públicas como privadas y se puede presentar de diversas maneras, por ejemplo: acuerdos entre empresas que no están regidos por la ley, sobornos a instituciones públicas para evitar procesos largos o para ahorrar dinero, entre otros. De igual manera es uno de los fenómenos que más pueden llegar a dañar al país, desde lo social hasta lo económico.
 
-# ¡Cómo se percibe la corrupción?
+# ¿Cómo se percibe la corrupción?
 
 ![Percepción de la corrupción en diversos países](https://upload.wikimedia.org/wikipedia/commons/b/b3/Corruption_Perception_index_2017.svg)
 
