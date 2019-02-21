@@ -2,6 +2,11 @@
 
 Generalmente la corrupción se puede definir como el abuso de poder concedido para el propio beneficio. Esto es en simples palabras el aprovechamiento de una persona sobre las demás; la corrupción se puede dar en diversas instituciones, tanto públicas como privadas y se puede presentar de diversas maneras, por ejemplo: acuerdos entre empresas que no están regidos por la ley, sobornos a instituciones públicas para evitar procesos largos o para ahorrar dinero, entre otros. De igual manera es uno de los fenómenos que más pueden llegar a dañar al país, desde lo social hasta lo económico.
 
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=CmzAX8VOr8w
+" target="_blank"><img src="http://img.youtube.com/vi/CmzAX8VOr8w/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 # Caso de corrupción, falsificacion de datos.
 
 La empresa Roadstar.ai despide a uno de sus cofundadores tras presentarse cargos de corrupción y falsificación de datos.  Se trata del investigador Zhou Gang, científico con un grado doctoral del instituto de investigación y desarrollo de Baidu, ubicado en Silicon Valley. 
@@ -26,16 +31,6 @@ Actualmente Roadstar.ai tiene las patentes de las tecnologías HeteroSync y Deep
 De esta noticia se puede concluir que la falsificación de datos en investigaciones científicas o ingenieriles es un tema importante que debe ser monitoreado por organismos autónomos a los investigadores o empresas. La creación y el uso de herramientas digitales para la validación estadística de datos también es un método que se debe aplicar para detectar este tipo de falsificaciones. Este caso no ha sido resuelto, pero los mecanismos anticorrupción y la denuncia de compañeros de trabajo lograron sacar este caso a la luz. Cuando se oficialice algún dictamen por parte del gobierno de China se actualizará la información de esta noticia, de confirmarse este caso de corrupción se puede esperar que las acciones de Roadstar.ai sufran un descenso considerable. 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=u7QD8RaSlrs
-" target="_blank"><img src="http://img.youtube.com/vi/u7QD8RaSlrs/0.jpg" 
+" target="_blank"><img src="http://img.youtube.com/vi/u7QD8RaSlrs/1.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/team-desma/EticaLinea/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
