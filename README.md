@@ -49,3 +49,9 @@ La corrupción en México
 " target="_blank"><img src="http://img.youtube.com/vi/Eglf3WWNMb0/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
+Ejemplo de corrupción: escándalo emisiones Volkswagen
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=CQ4irwe3ZDk
+" target="_blank"><img src="http://img.youtube.com/vi/CQ4irwe3ZDk/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
